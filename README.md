@@ -1,3 +1,6 @@
+# Forked
+This was forked from flosch/pongo2-addons to enable blackfriday v2. If this is resolved we should be able to use original repo again. Related: https://github.com/flosch/pongo2-addons/issues/6 
+
 # pongo2-addons
 
 [![Build Status](https://travis-ci.org/flosch/pongo2-addons.svg?branch=master)](https://travis-ci.org/flosch/pongo2-addons)
